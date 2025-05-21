@@ -4,7 +4,7 @@
 __pycache__/
 
 # Ignore data folder
-data/
+# data/
 
 # Ignore all CSV files
 *.csv
